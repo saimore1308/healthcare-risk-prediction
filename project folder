@@ -1,0 +1,8 @@
+healthcare risk model/
+│
+├── HEALTH CARE APP.py
+├── risk_model.pkl
+├── PATIENTS CSV.csv
+├── LAB RESULTS CSV.csv
+├── DIAGNOSIS CSV.csv
+├── OUTCOMES CSV.csv
